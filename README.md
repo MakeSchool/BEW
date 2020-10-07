@@ -10,14 +10,15 @@ Advanced courses look at **deployment**, **web security**, and **scaling**.
 
 | 🔢 Course Code | 📚 Course Title                                   | 🔗 Course Curriculum       |
 | ------------- | ------------------------------------------------ | ------------------------- |
-| **BEW 1.2**   | Authentication, Associations, & Advanced Queries | <https://make.sc/bew1.2>  |
-| **BEW 1.3**   | Server-Side Architectures & Frameworks           | <https://make.sc/bew1.3>  |
-| **BEW 2.1**   | Advanced Web Patterns                            | <https://make.sc/bew2.1>  |
-| **BEW 2.2**   | Docker, DevOps, & Deployments                    | <https://make.sc/bew2.2>  |
-| **BEW 2.3**   | Web Security                                     | <https://make.sc/bew2.3>  |
-| **BEW 2.4**   | Decentralized Apps & Distributed Protocols       | <https://make.sc/bew2.4>  |
-| **BEW 2.5**   | Patterns & Practices in Strongly Typed Languages | <https://make.sc/bew2.5>  |
-| **BEW 2.9**   | Choose Your Own Adventure                        | [Request a Course Now!]() |
+| **WEB 1.1** | _Web Architecture_ | <https://make.sc/web1.1> |
+| **BEW 1.2**   | _Authentication, Associations, & Advanced Queries_| <https://make.sc/bew1.2>  |
+| **BEW 1.3**   | _Server-Side Architectures & Frameworks_           | <https://make.sc/bew1.3>  |
+| **BEW 2.1**   | _Advanced Web Patterns_                            | <https://make.sc/bew2.1>  |
+| **BEW 2.2**   | _Docker, DevOps, & Deployments_                  | <https://make.sc/bew2.2>  |
+| **BEW 2.3**   | _Web Security_                                     | <https://make.sc/bew2.3>  |
+| **BEW 2.4**   | _Decentralized Apps & Distributed Protocols_       | <https://make.sc/bew2.4>  |
+| **BEW 2.5**   | _Patterns & Practices in Strongly Typed Languages_ | <https://make.sc/bew2.5>  |
+| **BEW 2.9**   | _Choose Your Own Adventure_                        | [Request a Course Now!]() |
 
 
 ## Resources
