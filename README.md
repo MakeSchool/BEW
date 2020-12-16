@@ -1,5 +1,7 @@
 # ⭐️ BEW Track at [Make School](https://makeschool.com)
 
+## Track Overview
+
 In this track, you’ll learn the **patterns, practices, and paradigms** that ensure you can **use, develop, and release standardized server-side applications**.
 
 We start by fostering familiarity with **syntactic language features**, then rapidly move into building server-side **web applications and APIs** using advanced techniques like WebSockets.
