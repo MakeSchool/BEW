@@ -18,10 +18,10 @@
 
 ## **Syllabus Updates**
 
-- [ ] Standardize syllabus based on the syllabus template: [Make-School-Courses/Syllabus-Template](https://github.com/Make-School-Courses/Syllabus-Template)
-- [ ] Update syllabus schedule and `_sidebar.md` to reflect new titles
-- [ ] Update schedule section for next term using provided tables in [Make-School-Courses/Syllabus-Template](https://github.com/Make-School-Courses/Syllabus-Template)
-  - [ ] Change dates
+- [x] Standardize syllabus based on the syllabus template: [Make-School-Courses/Syllabus-Template](https://github.com/Make-School-Courses/Syllabus-Template)
+- [x] Update syllabus schedule and `_sidebar.md` to reflect new titles
+- [x] Update schedule section for next term using provided tables in [Make-School-Courses/Syllabus-Template](https://github.com/Make-School-Courses/Syllabus-Template)
+  - [x] Change dates
   - [ ] Update lesson titles
 
 ---
